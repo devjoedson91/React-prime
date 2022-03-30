@@ -6,9 +6,9 @@
 Projeto feito durante workshop de react Native no canal Sujeito Programador, nesse projeto aprendi a criar bases para o desenvolvimento de qualquer projeto em react desde o servidor até a criação de layout's, paginações, styleComponents, rotas, renderizações, react hooks, e consumo de API's.
 
 ## Layout mobile
-![Web 1](https://github.com/devjoedson91/React-prime/tree/main/assets/layout01.jpeg)
+![mobile 1](https://github.com/devjoedson91/React-prime/tree/main/assets/layout01.jpeg)
 
-![Web 2](https://github.com/devjoedson91/React-prime/tree/main/assets/layout02.jpeg)
+![mobile 2](https://github.com/devjoedson91/React-prime/tree/main/assets/layout02.jpeg)
 
 # Tecnologias utilizadas
 ## Front end
