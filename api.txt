@@ -1,0 +1,11 @@
+chave da api: ba192920d7389e7ca278beedc09b8575
+
+
+passos para procurar a api do the movie db no insomia
+
+1 - link principal: https://api.themoviedb.org/3
+2 - link do get movies: /movie/now_playing
+3 - ?api_key=ba192920d7389e7ca278beedc09b8575
+4 - &language=pt-BR
+5 - &page=1
+
