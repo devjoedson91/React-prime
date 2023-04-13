@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Projeto feito durante workshop de react Native no canal Sujeito Programador, nesse projeto aprendi a criar bases para o desenvolvimento de qualquer projeto em react desde o servidor até a criação de layout's, paginações, styleComponents, rotas, renderizações, react hooks, e consumo de API's.
+Projeto feito durante workshop de react Native no canal Sujeito Programador, nesse projeto aprendi a criar bases para o desenvolvimento de qualquer projeto em react desde o servidor até a criação de layout's, paginações, styleComponents, rotas, renderizações, react hooks, requisições assíncronas, componentização, consumo de API's, entre outras.
 
 # Tecnologias utilizadas
 ## Front end
